@@ -26,3 +26,13 @@ console.log(num1 <= num2);
 // multiple conditions
 // money1 > money2 && result1 > result2 && height1 > height2;
 money1 > money2 || result1 > result2 || height1 > height2;
+
+// Operator      ||  Description
+// ==            ||  equal to
+// ===           ||  equal value and equal type
+// !=            ||  not equal
+// !==           ||  not equal value or not equal type
+// >             ||  greater than
+// <             ||  less than
+// >=            ||  greater than or equal to
+// <=            ||  less than or equal to
