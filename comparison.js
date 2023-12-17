@@ -28,6 +28,7 @@ console.log(num1 <= num2);
 money1 > money2 || result1 > result2 || height1 > height2;
 
 // Operator      ||  Description
+// ----------------------------------
 // ==            ||  equal to
 // ===           ||  equal value and equal type
 // !=            ||  not equal
